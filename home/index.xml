@@ -73,8 +73,13 @@ Contact | Google Scholar | GitHub | LinkedIn</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description> Probabilistic Graphical Models and their Applications
+Saarland University
+Winter 2015, Winter 2016
+ Programming in Python
+Bashkir State University
+Winter, 2013
+  </description>
     </item>
     
   </channel>
