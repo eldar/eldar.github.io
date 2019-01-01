@@ -59,6 +59,16 @@ Contact | Google Scholar | GitHub | LinkedIn</description>
     </item>
     
     <item>
+      <title>Other</title>
+      <link>/home/other/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/other/</guid>
+      <description>DeepLabCut Above: courtesy of the Murthy (mouse), Leventhal (rat), and Axel (fly) labs.
+My keypoint detection algorithm from the DeeperCut paper served as the foundation for DeepLabCut, a framework for studying the behavior of animals in the lab setting developed by neuroscientists at the Universities of Tübingen and Harvard. The framework gained significant popularity and is now used in more than 50 labs for a variety of tracking tasks. The framework is discussed in the corresponding Nature Neuroscience paper and was covered in the Nature and The Atlantic.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -76,7 +86,7 @@ Contact | Google Scholar | GitHub | LinkedIn</description>
       <description> Probabilistic Graphical Models and their Applications
 Saarland University
 Winter 2015, Winter 2016
- Programming in Python
+ Supplementary Programming Languages (Python)
 Bashkir State University
 Winter, 2013
   </description>
