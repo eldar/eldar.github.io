@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I am a 4th year PhD student at the Computer Vision group in Max Planck Institute for Informatics under the supervision of Prof. Bernt Schiele. My primary interest is developing learning models of the world that require minimal supervision. During the course of my doctoral studies I have been working on human pose estimation in unconstrained scenes and unsupervised learning of 3D representations. I had the pleasure to do an internship at the Intelligent Systems Lab at Intel working with Alexey Dosovitskiy.</description>
+      <description>I am a 4th year PhD student at the Computer Vision group in Max Planck Institute for Informatics under the supervision of Prof. Bernt Schiele. My primary interest is developing learning models of the world that require minimal supervision. During the course of my doctoral studies I have been working on the problem of human pose estimation in unconstrained scenes and unsupervised learning of 3D representations. I had the pleasure to do an internship at the Intelligent Systems Lab at Intel working with Alexey Dosovitskiy.</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@
       
       <guid>/home/other/</guid>
       <description>DeepLabCut Above: courtesy of the Murthy (mouse), Leventhal (rat), and Axel (fly) labs.
-My keypoint detection algorithm from the DeeperCut paper and its implementation served as the foundation for DeepLabCut, a toolbox for studying the behavior of animals in the lab setting developed by neuroscientists at the Universities of Tübingen and Harvard. The toolbox gained significant popularity and is now used in more than 200 labs for a variety of tracking tasks.</description>
+My keypoint detection algorithm from the DeeperCut paper and its implementation served as the foundation for DeepLabCut, a toolbox for studying motor behavior of animals in the lab setting developed by neuroscientists at the Universities of Tübingen and Harvard. The toolbox gained significant popularity and is now used in hundreds of labs for a variety of tracking tasks.</description>
     </item>
     
     <item>
