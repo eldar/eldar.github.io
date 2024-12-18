@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data</title>
+      <link>/publication/insafutdinov-2022-eccv/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/insafutdinov-2022-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>360-Degree Textures of People in Clothing from a Single Image</title>
+      <link>/publication/lazova-2019-3dv/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lazova-2019-3dv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unsupervised Learning of Shape and Pose with Differentiable Point Clouds</title>
       <link>/publication/insafutdinov-2018-neurips/</link>
-      <pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/insafutdinov-2018-neurips/</guid>
       <description></description>
@@ -22,7 +40,7 @@
     <item>
       <title>PoseTrack: A Benchmark for Human Pose Estimation and Tracking</title>
       <link>/publication/andriluka-2018-cvpr/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/andriluka-2018-cvpr/</guid>
       <description></description>
@@ -31,7 +49,7 @@
     <item>
       <title>ArtTrack: Articulated Multi-Person Tracking in the Wild</title>
       <link>/publication/insafutdinov-2017-cvpr/</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/insafutdinov-2017-cvpr/</guid>
       <description></description>
@@ -40,7 +58,7 @@
     <item>
       <title>Joint Graph Decomposition and Node Labeling: Problem, Algorithms, Applications</title>
       <link>/publication/levinkov-2017-cvpr/</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/levinkov-2017-cvpr/</guid>
       <description></description>
@@ -49,7 +67,7 @@
     <item>
       <title>EgoCap: Egocentric Marker-less Motion Capture with Two Fisheye Cameras</title>
       <link>/publication/rhodin-2016-siggraphasia/</link>
-      <pubDate>Mon, 05 Dec 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/rhodin-2016-siggraphasia/</guid>
       <description></description>
@@ -58,7 +76,7 @@
     <item>
       <title>DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model</title>
       <link>/publication/insafutdinov-2016-eccv/</link>
-      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/insafutdinov-2016-eccv/</guid>
       <description></description>
@@ -67,7 +85,7 @@
     <item>
       <title>DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation</title>
       <link>/publication/pishchulin-2016-cvpr/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/pishchulin-2016-cvpr/</guid>
       <description></description>

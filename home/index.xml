@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,16 +24,16 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I am a 4th year PhD student at the Computer Vision group in Max Planck Institute for Informatics under the supervision of Prof. Bernt Schiele. My primary interest is developing learning models of the world that require minimal supervision. During the course of my doctoral studies I have been working on the problem of human pose estimation in unconstrained scenes and unsupervised learning of 3D representations. I had the pleasure to do an internship at the Intelligent Systems Lab at Intel working with Alexey Dosovitskiy.</description>
+      <description>I am a postdoctoral researcher in the Visual Geometry Group at the University of Oxford working with Prof. Andrea Vedaldi and Dr. Joao Henriques. My primary research interest is in self-supervised learning of visual representations for novel view synthesis and acquisition of 3D assets from raw in-the-wild data. I completed my PhD student at the Max Planck Institute for Informatics under the supervision of Prof. Bernt Schiele working on human pose estimation.</description>
     </item>
     
     <item>
       <title></title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Other</title>
       <link>/home/other/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/other/</guid>
       <description>DeepLabCut Above: courtesy of the Murthy (mouse), Leventhal (rat), and Axel (fly) labs.
@@ -70,7 +70,7 @@ My keypoint detection algorithm from the DeeperCut paper and its implementation 
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -79,7 +79,7 @@ My keypoint detection algorithm from the DeeperCut paper and its implementation 
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
       <description> Probabilistic Graphical Models and their Applications
