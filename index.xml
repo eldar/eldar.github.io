@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image</title>
+      <link>/publication/szymanowicz-2025-3dv/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/szymanowicz-2025-3dv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data</title>
       <link>/publication/insafutdinov-2022-eccv/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0100</pubDate>
       
       <guid>/publication/insafutdinov-2022-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifting 2D Object Locations to 3D by Discounting LiDAR Outliers across Objects and Views</title>
+      <link>/publication/mccraith-2022-icra/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mccraith-2022-icra/</guid>
       <description></description>
     </item>
     
