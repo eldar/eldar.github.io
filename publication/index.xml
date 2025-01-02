@@ -24,9 +24,18 @@
     <item>
       <title>Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image</title>
       <link>/publication/szymanowicz-2025-3dv/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0100</pubDate>
       
       <guid>/publication/szymanowicz-2025-3dv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural fields for co-reconstructing 3D objects from incidental 2D data</title>
+      <link>/publication/campbell-2024-cvprw/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/campbell-2024-cvprw/</guid>
       <description></description>
     </item>
     
