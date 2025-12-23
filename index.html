@@ -195,7 +195,7 @@
     <div class="portrait-title">
       <h1 itemprop="name">Eldar Insafutdinov</h1>
     </div>
-    <p>I am a postdoctoral researcher in the <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Visual Geometry Group</a> at the University of Oxford working with <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Prof. Andrea Vedaldi</a> and <a href="https://eng.ox.ac.uk/people/joao-henriques/" target="_blank">Dr. Joao Henriques</a>. My primary research interest is in self-supervised learning of visual representations for novel view synthesis and acquisition of 3D assets from raw in-the-wild data. I completed my PhD student at the Max Planck Institute for Informatics under the supervision of <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele" target="_blank">Prof. Bernt Schiele</a> working on human pose estimation. I had the pleasure to do an internship at the Intelligent Systems Lab at Intel working with Alexey Dosovitskiy. I obtained my master&rsquo;s degree in Visual Computing from the Saarland University.</p>
+    <p>I am a computer vision researcher working on 3D perception at the Amazon Frontier AI and Robotics (FAR). Formerly, I was a postdoc in the <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Visual Geometry Group</a> at the University of Oxford working with <a href="https://www.robots.ox.ac.uk/~vedaldi/" target="_blank">Prof. Andrea Vedaldi</a> and <a href="https://eng.ox.ac.uk/people/joao-henriques/" target="_blank">Dr. Joao Henriques</a> on self-supervised learning of visual representations for novel view synthesis and acquisition of 3D assets from in-the-wild data. I completed my PhD at the Max Planck Institute for Informatics under the supervision of <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele" target="_blank">Prof. Bernt Schiele</a> working on human pose estimation. I had the pleasure to do an internship at the Intelligent Systems Lab at Intel working with Alexey Dosovitskiy. I obtained my master&rsquo;s degree in Visual Computing from the Saarland University.</p>
 
 <p><a href="mailto:e.insafutdinov@gmail.com" target="_blank">Contact</a> |
 <a href="https://scholar.google.co.uk/citations?user=u4unGhAAAAAJ" target="_blank">Google Scholar</a> |
@@ -261,6 +261,134 @@
     
 
     
+    
+        <div class="row">
+    
+    
+        
+    
+    <div class="col-12 col-lg-3">
+        <div class="ml-3">
+            
+            
+            
+            <a href="https://arxiv.org/pdf/2503.16318">
+                <img src="/publication/sucar-2025-iccv/featured.png" itemprop="image" class="paper-teaser">
+            </a>
+            
+        </div>
+    </div>
+    <div class="col-12 col-lg-9">
+        <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+        <div class="media-body">
+
+            <h3 class="article-title mb-0 mt-0" itemprop="name">
+            <a href="https://arxiv.org/pdf/2503.16318" itemprop="url">Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction</a>
+            </h3>
+
+            <div class="stream-meta">
+                <div itemprop="author">
+                    
+                    
+                    Edgar Sucar,
+                    
+                    
+                    
+                    Zihang Lai,
+                    
+                    
+                    
+                    <b>Eldar Insafutdinov</b>,
+                    
+                    
+
+                    
+                    
+                    Andrea Vedaldi
+                    
+                    
+                </div>
+            </div>
+
+            
+            <div>
+                <i>ICCV, 2025</i>
+            </div>
+            
+
+            <div class="btn-links">
+            
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2503.16318" target="_blank" rel="noopener">
+  pdf
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.robots.ox.ac.uk/~vgg/research/dynamic-point-maps/" target="_blank" rel="noopener">
+  project page
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="javascript:toggleblock('sucar2025iccv_abstract')">
+  abstract
+</a>
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/sucar-2025-iccv/sucar25_iccv.bib">
+  bibtex
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+            
+            
+            
+            
+            
+            
+            <div class="article-style abstract-block" itemprop="articleBody" id="sucar2025iccv_abstract" style="display: none;">
+            DUSt3R has recently shown that one can reduce many tasks in multi-view geometry, including estimating camera intrinsics and extrinsics, reconstructing the scene in 3D, and establishing image correspondences, to the prediction of a pair of viewpoint-invariant point maps, i.e., pixel-aligned point clouds defined in a common reference frame. This formulation is elegant and powerful, but unable to tackle dynamic scenes. To address this challenge, we introduce the concept of Dynamic Point Maps (DPM), extending standard point maps to support 4D tasks such as motion segmentation, scene flow estimation, 3D object tracking, and 2D correspondence. Our key intuition is that, when time is introduced, there are several possible spatial and time references that can be used to define the point maps. We identify a minimal subset of such combinations that can be regressed by a network to solve the sub tasks mentioned above. We train a DPM predictor on a mixture of synthetic and real data and evaluate it across diverse benchmarks for video depth prediction, dynamic point cloud reconstruction, 3D scene flow and object pose tracking, achieving state-of-the-art performance.
+            </div>
+            
+
+        </div>
+        </div>
+    </div>
+</div>
     
         <div class="row">
     
@@ -1490,162 +1618,6 @@
             
             <div class="article-style abstract-block" itemprop="articleBody" id="insafutdinov2017cvpr_abstract" style="display: none;">
             In this paper we propose an approach for articulated tracking of multiple people in unconstrained videos. Our starting point is a model that resembles existing architectures for single-frame pose estimation but is substantially faster. We achieve this in two ways: (1) by simplifying and sparsifying the body-part relationship graph and leveraging recent methods for faster inference, and (2) by offloading a substantial share of computation onto a feed-forward convolutional architecture that is able to detect and associate body joints of the same person even in clutter. We use this model to generate proposals for body joint locations and formulate articulated tracking as spatio-temporal grouping of such proposals. This allows to jointly solve the association problem for all people in the scene by propagating evidence from strong detections through time and enforcing constraints that each proposal can be assigned to one person only. We report results on a public “MPII Human Pose” benchmark and on a new “MPII Video Pose” dataset of image sequences with multiple people. We demonstrate that our model achieves state-of-the-art results while using only a fraction of time and is able to leverage temporal information to improve state-of-the-art for crowded scenes
-            </div>
-            
-
-        </div>
-        </div>
-    </div>
-</div>
-    
-        <div class="row">
-    
-    
-        
-    
-    <div class="col-12 col-lg-3">
-        <div class="ml-3">
-            
-            
-            
-            <a href="https://arxiv.org/pdf/1611.04399">
-                <img src="/publication/levinkov-2017-cvpr/featured.png" itemprop="image" class="paper-teaser">
-            </a>
-            
-        </div>
-    </div>
-    <div class="col-12 col-lg-9">
-        <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-        <div class="media-body">
-
-            <h3 class="article-title mb-0 mt-0" itemprop="name">
-            <a href="https://arxiv.org/pdf/1611.04399" itemprop="url">Joint Graph Decomposition and Node Labeling: Problem, Algorithms, Applications</a>
-            </h3>
-
-            <div class="stream-meta">
-                <div itemprop="author">
-                    
-                    
-                    Evgeny Levinkov,
-                    
-                    
-                    
-                    Jonas Uhrig,
-                    
-                    
-                    
-                    Siyu Tang,
-                    
-                    
-                    
-                    Mohamed Omran,
-                    
-                    
-                    
-                    <b>Eldar Insafutdinov</b>,
-                    
-                    
-                    
-                    Alexander Kirillov,
-                    
-                    
-                    
-                    Carsten Rother,
-                    
-                    
-                    
-                    Thomas Brox,
-                    
-                    
-                    
-                    Bernt Schiele,
-                    
-                    
-
-                    
-                    
-                    Bjoern Andres
-                    
-                    
-                </div>
-            </div>
-
-            
-            <div>
-                <i>CVPR, 2017</i>
-            </div>
-            
-
-            <div class="btn-links">
-            
-
-
-
-
-
-
-
-  
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/1611.04399" target="_blank" rel="noopener">
-  pdf
-</a>
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="javascript:toggleblock('levinkov2017cvpr_abstract')">
-  abstract
-</a>
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/levinkov-2017-cvpr/levinkov-2017-cvpr.bib">
-  bibtex
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/bjoern-andres/graph" target="_blank" rel="noopener">
-  code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-            </div>
-
-            
-            
-            
-            
-            
-            
-            <div class="article-style abstract-block" itemprop="articleBody" id="levinkov2017cvpr_abstract" style="display: none;">
-            We state a combinatorial optimization problem whose feasible solutions define both a decomposition and a node labeling of a given graph.  This problem offers a common mathematical abstraction of seemingly unrelated computer vision tasks, including instance-separating semantic segmentation, articulated human body pose estimation and multiple object tracking. Conceptually, the problem we state generalizes the unconstrained integer quadratic program and the minimum cost lifted multicut problem, both of which are NP-hard. In order to find feasible solutions efficiently, we define two local search algorithms that converge monotonously to a local optimum, offering a feasible solution at any time. To demonstrate their effectiveness in tackling computer vision tasks, we apply these algorithms to instances of the problem that we construct from published data, using published algorithms. We report state-of-the-art application-specific accuracy for the three above-mentioned applications.
             </div>
             
 
